@@ -1,24 +1,11 @@
-# README
+## Rails 5 Material Design
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple starter project that includes a badass Bootstrap 3.x Material Design theme running on Rails 5.
 
-Things you may want to cover:
+Clone, fire up puma, and navigate to localhost:3000/styleguide
 
-* Ruby version
+Sample pages are all in html (not haml), but they're really just there for proof that all components etc work.
 
-* System dependencies
+---
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Credit to http://ct-freebies.herokuapp.com/material-kit/index.html for the badass theme.
